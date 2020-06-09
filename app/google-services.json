@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365490825845",
+    "firebase_url": "https://prior-security-dev.firebaseio.com",
+    "project_id": "prior-security-dev",
+    "storage_bucket": "prior-security-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365490825845:android:accf78c16e196da54de63c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365490825845-52bm7u1su54tju0rlip624795tgbkjfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCifKXPUnZbZ0pCjjsPHeReJ6cvGrRNWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365490825845-52bm7u1su54tju0rlip624795tgbkjfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
